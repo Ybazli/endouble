@@ -32,17 +32,9 @@ For register new module you should create new php class and **implements** from 
 
 the exist modules are SpaceX and Xkcd under the app\Api folder.
 
-### SapceX
-
-The Space X module location is Api\SpaceX.php. 
-
-### XKCD
-
-
-
 ## Request
 
-The `/api` url with Get method is exist for handling our request. for example : http:localhost:8080/api
+The `/api` url with `Get` method is exist for handling our request. for example : http:localhost:8080/api
 
 For testing api, [PostMan](https://www.getpostman.com) or web browsers can be used.
 
