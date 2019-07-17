@@ -4,7 +4,7 @@ This project serves on [Lumen micro framwork](https://lumen.laravel.com/docs/5.8
 
 ## Instalation and run project
 
-Go to project folder and run this command for installing dependencies with the composer:
+After you clone this project, in terminal go to the project folder and run this command for installing dependencies with the composer:
 
 ```bash
 composer update
@@ -25,6 +25,8 @@ php -S localhost:8000 -t public
 Now the project can be accessible on http://localhost:8000/api 
 
 or [laravel valet](https://laravel.com/docs/5.8/valet) can be used.
+
+
 
 ##Modules
 
@@ -58,5 +60,3 @@ composer global require phpunit/phpunit
 ```
 
 Now you can access to `phpunit` alias.
-
-**Notice** : 
